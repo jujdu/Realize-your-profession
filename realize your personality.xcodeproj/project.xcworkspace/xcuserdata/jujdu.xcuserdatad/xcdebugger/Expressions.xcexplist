@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "QuestionViewController.init(coder:):QuestionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "answersChosen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QuestionViewController.answersChosen.modify:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "QuestionViewController.answersChosen.modify:QuestionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "answersChosen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QuestionViewController.rangedButtonPressed(_:):QuestionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "slider.value">
+            </PersistentString>
+            <PersistentString
+               value = "slider">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QuestionViewController.rangedButtonPressed():QuestionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "slider.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
