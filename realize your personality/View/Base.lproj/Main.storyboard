@@ -22,7 +22,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="k7k-Gh-8YP">
-                                <rect key="frame" x="85.000000000000014" y="361.66666666666669" width="205.33333333333337" height="99"/>
+                                <rect key="frame" x="85" y="361.66666666666669" width="205.33333333333337" height="99"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Who are you?!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pYY-dS-mID">
                                         <rect key="frame" x="0.0" y="0.0" width="205.33333333333334" height="39"/>
@@ -345,7 +345,7 @@
                                 <rect key="frame" x="75" y="277.33333333333331" width="225" height="251.66666666666669"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="You are 👩🏻‍🚀" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I8E-Z0-vhF">
-                                        <rect key="frame" x="15.333333333333329" y="0.0" width="194.66666666666669" height="132.66666666666666"/>
+                                        <rect key="frame" x="15.333333333333314" y="0.0" width="194.66666666666669" height="132.66666666666666"/>
                                         <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="51"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
