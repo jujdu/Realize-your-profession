@@ -15,5 +15,3 @@ When a user chose all answers it calculate his possible profession automaticaly.
 After user can go back to the first ViewController.
 
 The app can modify to an unlimited number of questions. The app doesn't use any DB.
-
-Here is an example of running the app.
