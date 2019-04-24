@@ -2,7 +2,7 @@
 
 Attention: This is just a test app. It cannot upload on AppStore because of emoji.
 
-![alt text](https://pp.userapi.com/c855620/v855620311/2bf39/1stR5wLu88w.jpg) // need change size
+![alt text](https://pp.userapi.com/c852216/v852216983/10afbe/-NhsFWQmRSA.jpg) // need change size
 
 This test app has 3 types of question with:
 1. four buttons;
