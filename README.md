@@ -1,6 +1,6 @@
 # Realize your profession
 
-Attention: This is just a test app. It cannot upload on AppStore because of emoji.
+Notes: using emoji aren't allowed in UI by Apple
 
 ![alt text](https://pp.userapi.com/c852216/v852216983/10afbe/-NhsFWQmRSA.jpg)
 
